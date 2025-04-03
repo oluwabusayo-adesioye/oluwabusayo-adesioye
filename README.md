@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oluwabusayo-adesioye
-- 👀 I’m interested in Machine Learning and Predictive Model buildidng
+- 👀 I’m interested in Machine Learning and Predictive Model building
 - 🌱 I’m currently learning Python for data analysis
 - 📫 How to reach me: LinkedIn (www.linkedin.com/in/oluwabusayo-adesioye)
 - ⚡ Fun fact: I love using data to tell stories
